@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 0,
+    "left": 0,
+    "width": 1200,
+    "height": 1600,
+    "isRotated": false,
+    "originalWidth": 1200,
+    "originalHeight": 1600
+  },
+  "imagePath": "image-targets/Shrunken_Head_1_luminance.jpg",
+  "metadata": null,
+  "name": "Shrunken_Head_1",
+  "resources": {
+    "originalImage": "Shrunken_Head_1_original.jpg",
+    "croppedImage": "Shrunken_Head_1_cropped.jpg",
+    "thumbnailImage": "Shrunken_Head_1_thumbnail.jpg",
+    "luminanceImage": "Shrunken_Head_1_luminance.jpg"
+  },
+  "created": 1781301616107,
+  "updated": 1781301616107
+}
